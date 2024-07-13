@@ -2,24 +2,25 @@
 
 A Python QR code generator that streamlines accessing student information. Developed a tool to generate QR codes from student data, enhancing efficiency and security. Ideal for educational institutions looking to modernize data management systems.#
 
-##Project Highlights:
-###Technology Used: 
-Python
+## Project Highlights:
 
-###Libraries: 
-QR 
-Pillow
-Tkinter
-ResizeImage
+### Technology Used: 
+- Python
 
-###Functionality: 
--Generates QR codes from student information
+### Libraries: 
+- QR 
+- Pillow
+- Tkinter
+- ResizeImage
+
+### Functionality: 
+- Generates QR codes from student information
 
 - Benefits: Simplifies data access, improves efficiency, and enhances data security
 
 
 
-##Key Features:
+## Key Features:
 
 - User-Friendly Input: Collects student details like name, ID, and contact information.
 
